@@ -37,3 +37,5 @@ You can try prompts like:
 - Transfer 0.1 USDT on testnet to 0x3b46b495d95a23B3001D7C0D634fF46B20dcb04f
 - Check my testnet delegation on validator: injvaloper1qvc6jej73armfs5fadn9lprx768f46d9up3p9h
 - Please help me withdraw my staking reward on the above validator
+- I want to swap 100 USDT to INJ using Helix swap contract on testnet
+- I want to open a long position on INJ/USDT perpetual market with 10 INJ quantity, 5x leverage, slippage 1%
